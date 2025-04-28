@@ -1,0 +1,17 @@
+.scheda {
+    background-color: #fff;
+    border-left: 5px solid #6d6875;
+    padding: 15px 20px;
+    margin-bottom: 25px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.scheda h2 {
+    margin-top: 0;
+    color: #333333;
+}
+
+.dono {
+    font-weight: bold;
+    color: #641e1e;
+}
